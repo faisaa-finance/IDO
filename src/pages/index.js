@@ -746,7 +746,7 @@ export default function Home() {
                           <span>Airdrop</span>
                         </div>
                       </div>
-                      
+                      </div>
                       </div>
                     </div>
                   </div>
