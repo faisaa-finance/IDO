@@ -5,12 +5,12 @@ export default function App({ Component, pageProps }) {
   <>
   
   <Component {...pageProps} />
-  <Helmet>
+  
    <Script src="js/jquery.bundle.js" type="text/javascript" ></Script>
    <Script src="js/scripts.js" type="text/javascript"></Script>
    <Script src="js/charts.js" type="text/javascript" ></Script>
    <Script src="js/toastr.examples.js" type="text/javascript" ></Script>
-</Helmet>
+
   </>
   )
 }
