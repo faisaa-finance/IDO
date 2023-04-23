@@ -728,26 +728,25 @@ export default function Home() {
                       </div>
                       <div
                         className="token-bar-item tbic5"
-                        data-percent={5}
+                        data-percent={10}
                         style={{ width: "5%" }}
                       >
                         <div className="token-bar-txt">
                           <span>3%</span>
-                          <span>DAO/Treasury</span>
+                          <span>DAO</span>
                         </div>
                       </div>
                       <div
                         className="token-bar-item tbic6"
-                        data-percent={2}
+                        data-percent={7}
                         style={{ width: "2%" }}
                       >
                         <div className="token-bar-txt">
                           <span>2%</span>
-                          <span>Airdrop</span>
+                          <span>Community</span>
                         </div>
                       </div>
-                      </div>
-                      </div>
+                      
                     </div>
                   </div>
                 </div>
