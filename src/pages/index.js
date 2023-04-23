@@ -729,7 +729,7 @@ export default function Home() {
                       <div
                         className="token-bar-item tbic5"
                         data-percent={10}
-                        style={{ width: "5%" }}
+                        style={{ width: "3%" }}
                       >
                         <div className="token-bar-txt">
                           <span>3%</span>
@@ -739,7 +739,7 @@ export default function Home() {
                       <div
                         className="token-bar-item tbic6"
                         data-percent={7}
-                        style={{ width: "2%" }}
+                        style={{ width: "1.5%" }}
                       >
                         <div className="token-bar-txt">
                           <span>2%</span>
