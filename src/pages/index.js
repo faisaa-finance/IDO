@@ -718,22 +718,22 @@ export default function Home() {
                       </div>
                       <div
                         className="token-bar-item tbic4"
-                        data-percent={13}
-                        style={{ width: "8%" }}
+                        data-percent={15}
+                        style={{ width: "15%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>8%</span>
-                          <span>DAO Treasury</span>
+                          <span>10%</span>
+                          <span>Team</span>
                         </div>
                       </div>
                       <div
                         className="token-bar-item tbic5"
-                        data-percent={10}
+                        data-percent={5}
                         style={{ width: "5%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>5%</span>
-                          <span>Team</span>
+                          <span>3%</span>
+                          <span>DAO/Treasury</span>
                         </div>
                       </div>
                       <div
@@ -742,19 +742,11 @@ export default function Home() {
                         style={{ width: "2%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>1.5%</span>
-                          <span>Community</span>
+                          <span>2%</span>
+                          <span>Community/Airdrop</span>
                         </div>
                       </div>
-                      <div
-                        className="token-bar-item tbic7"
-                        data-percent={5}
-                        style={{ width: "0.5%" }}
-                      >
-                        <div className="token-bar-txt">
-                          <span>0.5%</span>
-                          <span>Airdrop</span>
-                        </div>
+                      
                       </div>
                     </div>
                   </div>
