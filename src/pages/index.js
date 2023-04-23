@@ -743,7 +743,7 @@ export default function Home() {
                       >
                         <div className="token-bar-txt">
                           <span>2%</span>
-                          <span>Community/Airdrop</span>
+                          <span>Airdrop</span>
                         </div>
                       </div>
                       
