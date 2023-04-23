@@ -723,7 +723,7 @@ export default function Home() {
                       >
                         <div className="token-bar-txt">
                           <span>10%</span>
-                          <span>Team</span>
+                          <span>Team / Ecosystem</span>
                         </div>
                       </div>
                       <div
