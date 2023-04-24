@@ -26,9 +26,9 @@ export default function Home() {
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0b2aff" />
-    <meta name="msapplication-TileColor" content="#ff9635" />
-    <meta name="theme-color" content="#ff9635" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5653A1" />
+    <meta name="msapplication-TileColor" content="#5653A1" />
+    <meta name="theme-color" content="#5653A1" />
     <link rel="canonical" href="https://faisaa.finance" />
     <link rel="shortcut icon" href="/favicon.ico" />
     
