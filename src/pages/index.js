@@ -151,7 +151,7 @@ export default function Home() {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="https://app.faisaa.finance"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
                         <span>Buy FAISAA</span>
@@ -181,8 +181,6 @@ export default function Home() {
                           data-delay="1.25"
                         >
                           <h2 className="title title-xl-s2 title-semibold">
-                            Disrupt the status quo,
-                            <br />
                             Embrace a Decentralized Economy
                           </h2>
                         </div>
@@ -355,8 +353,7 @@ export default function Home() {
                       data-animate="fadeInUp"
                       data-delay=".2"
                     >
-                      The native token of the{" "}
-                      <span style={{ color: "#0b2aff!important" }}>
+                     <span style={{ color: "#0b2aff!important" }}>
                         FaisaaX,
                       </span>{" "}
                       the first AMM powered DEX with Atomic Swap protocol built
@@ -402,7 +399,7 @@ export default function Home() {
                 data-delay=".2"
                 style={{ visibility: "visible", animationDelay: "0.2s" }}
               >
-                Faisaa Protocol
+                FaisaaX Protocol
               </h2>
               <p
                 className=" fadeInUp"
@@ -410,8 +407,7 @@ export default function Home() {
                 data-delay=".3"
                 style={{ visibility: "visible", animationDelay: "0.3s" }}
               >
-                $FAISAA is the token that assures endless possibilities. A
-                project built by the community for the community. The project
+                FaisaaX a AMM Powered DEX with Atomicswap Protocol is a project built by the community for the community. The project
                 aims to facilitate decentralised finance to its users by
                 utilising the latest blockchain CoreDAO.
               </p>
