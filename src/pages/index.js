@@ -131,8 +131,8 @@ export default function Home() {
                     data-animate="fadeInDown"
                     data-delay=".85"
                   >
-                    <li className="language-switcher language-switcher-s1 toggle-wrap">
-                      <a className="toggle-tigger" target="_blank" href="https://faisaa-finance.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">
+                    <li className="language-switcher language-switcher-s1">
+                      <a className="toggle-tigger" target="_trans" rel="noreferrer" href="https://faisaa-finance.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">
                         English
                       </a>
                       {/* <ul class="toggle-class toggle-drop toggle-drop-left drop-list drop-list-sm">
@@ -152,6 +152,7 @@ export default function Home() {
                     <li>
                       <a
                         href="https://app.faisaa.finance"
+                        target="_app"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
                         <span>Buy FAISAA</span>
@@ -295,7 +296,7 @@ export default function Home() {
                     <div className="progress-bar progress-bar-s1">
                       <div
                         className="progress-percent progress-percent-s1 bg-theme-grad-alt"
-                        data-percent={30}
+                        data-percent={0}
                       />
                     </div>
                     <div className="progress-points">
@@ -1341,7 +1342,7 @@ export default function Home() {
           <section className="section">
             <div className="container">
               <h1>
-                <a href="#" style={{ color: "#ff9635" }}>
+                <a href="" style={{ color: "#ff9635" }}>
                   BUY FAISAA
                 </a>
               </h1>
@@ -1357,4 +1358,3 @@ export default function Home() {
   </>
 )
 }
-
