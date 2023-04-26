@@ -276,12 +276,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      IDO will be live on 28th April 2023
+                      IDO will be live on 30th April 2023
                     </h5>
                     <h6>IDO ends in 6 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/04/28"
+                      data-date="2023/04/30"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
