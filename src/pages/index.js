@@ -276,12 +276,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      IDO will be live on 30th April 2023
+                      IDO will be live on 1st March 2023!
                     </h5>
                     <h6>IDO ends in 6 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/04/30"
+                      data-date="2023/05/01"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
@@ -613,7 +613,7 @@ export default function Home() {
                       data-delay=".2"
                     >
                       <span>Tokens Offered</span>
-                      <h5>25 M</h5>
+                      <h5>10 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -624,7 +624,7 @@ export default function Home() {
                       data-delay=".3"
                     >
                       <span>Soft Cap</span>
-                      <h5>$6.6 M</h5>
+                      <h5>$1.25 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -635,7 +635,7 @@ export default function Home() {
                       data-delay=".4"
                     >
                       <span>Hard Cap</span>
-                      <h5>$25 M</h5>
+                      <h5>$2.5 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -689,7 +689,7 @@ export default function Home() {
                         style={{ width: "50%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>50%</span>
+                          <span>60%</span>
                           <span>Yield farming &amp; Staking</span>
                         </div>
                       </div>
@@ -699,33 +699,34 @@ export default function Home() {
                         style={{ width: "20%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>25%</span>
+                          <span>10%</span>
                           <span>Initial DEX Offering (IDO)</span>
                         </div>
                       </div>
                       <div
-                        className="token-bar-item tbic3"
+                        className="token-bar-item tbic4"
                         data-percent={16}
                         style={{ width: "15%" }}
                       >
                         <div className="token-bar-txt">
                           <span>10%</span>
-                          <span>Public Sale</span>
+                          <span>Team/Ecosystem</span>
                         </div>
                       </div>
                       <div
-                        className="token-bar-item tbic4"
+                        className="token-bar-item tbic3"
                         data-percent={12}
                         style={{ width: "10%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>10%</span>
-                          <span>Team </span>
+                          <span>5%</span>
+                          <span>Public Sale</span>
                         </div>
                       </div>
+                      
                       <div
                         className="token-bar-item tbic5"
-                        data-percent={11}
+                        data-percent={12}
                         style={{ width: "3%" }}
                       >
                         <div className="token-bar-txt">
@@ -735,7 +736,7 @@ export default function Home() {
                       </div>
                       <div
                         className="token-bar-item tbic6"
-                        data-percent={11}
+                        data-percent={10}
                         style={{ width: "2%" }}
                       >
                         <div className="token-bar-txt">
