@@ -153,6 +153,7 @@ export default function Home() {
                       <a
                         href="https://app.faisaa.finance"
                         target="_app"
+                         rel="noreferrer"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
                         <span>Buy FAISAA</span>
@@ -276,7 +277,7 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      IDO will be live on 1st March 2023!
+                      IDO will be live on 1st May 2023!
                     </h5>
                     <h6>IDO ends in 6 Hours</h6>
                     <div
