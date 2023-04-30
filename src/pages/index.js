@@ -301,7 +301,7 @@ export default function Home() {
                       />
                     </div>
                     <div className="progress-points">
-                      <span>1M Sold</span> <span>25M Sold</span>
+                      <span>1M Sold</span> <span>10M Sold</span>
                     </div>
                   </div>
                 </div>
