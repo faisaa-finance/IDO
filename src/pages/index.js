@@ -26,9 +26,9 @@ export default function Home() {
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0b2aff" />
-    <meta name="msapplication-TileColor" content="#ff9635" />
-    <meta name="theme-color" content="#ff9635" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5653A1" />
+    <meta name="msapplication-TileColor" content="#5653A1" />
+    <meta name="theme-color" content="#5653A1" />
     <link rel="canonical" href="https://faisaa.finance" />
     <link rel="shortcut icon" href="/favicon.ico" />
     
@@ -131,8 +131,8 @@ export default function Home() {
                     data-animate="fadeInDown"
                     data-delay=".85"
                   >
-                    <li className="language-switcher language-switcher-s1 toggle-wrap">
-                      <a className="toggle-tigger" target="_blank" href="https://faisaa-finance.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">
+                    <li className="language-switcher language-switcher-s1">
+                      <a className="toggle-tigger" target="_trans" rel="noreferrer" href="https://faisaa-finance.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp">
                         English
                       </a>
                       {/* <ul class="toggle-class toggle-drop toggle-drop-left drop-list drop-list-sm">
@@ -151,7 +151,9 @@ export default function Home() {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="https://app.faisaa.finance"
+                        target="_app"
+                         rel="noreferrer"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
                         <span>Buy FAISAA</span>
@@ -181,8 +183,6 @@ export default function Home() {
                           data-delay="1.25"
                         >
                           <h2 className="title title-xl-s2 title-semibold">
-                            Disrupt the status quo,
-                            <br />
                             Embrace a Decentralized Economy
                           </h2>
                         </div>
@@ -277,12 +277,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      IDO will be live on 28th April 2023
+                      IDO will be live on 1st May 2023!
                     </h5>
                     <h6>IDO ends in 6 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/04/28"
+                      data-date="2023/05/01"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
@@ -297,11 +297,11 @@ export default function Home() {
                     <div className="progress-bar progress-bar-s1">
                       <div
                         className="progress-percent progress-percent-s1 bg-theme-grad-alt"
-                        data-percent={30}
+                        data-percent={0}
                       />
                     </div>
                     <div className="progress-points">
-                      <span>1M Sold</span> <span>25M Sold</span>
+                      <span>1M Sold</span> <span>10M Sold</span>
                     </div>
                   </div>
                 </div>
@@ -355,8 +355,7 @@ export default function Home() {
                       data-animate="fadeInUp"
                       data-delay=".2"
                     >
-                      The native token of the{" "}
-                      <span style={{ color: "#0b2aff!important" }}>
+                     <span style={{ color: "#0b2aff!important" }}>
                         FaisaaX,
                       </span>{" "}
                       the first AMM powered DEX with Atomic Swap protocol built
@@ -402,7 +401,7 @@ export default function Home() {
                 data-delay=".2"
                 style={{ visibility: "visible", animationDelay: "0.2s" }}
               >
-                Faisaa Protocol
+                FaisaaX Protocol
               </h2>
               <p
                 className=" fadeInUp"
@@ -410,8 +409,7 @@ export default function Home() {
                 data-delay=".3"
                 style={{ visibility: "visible", animationDelay: "0.3s" }}
               >
-                $FAISAA is the token that assures endless possibilities. A
-                project built by the community for the community. The project
+                FaisaaX a AMM Powered DEX with Atomicswap Protocol is a project built by the community for the community. The project
                 aims to facilitate decentralised finance to its users by
                 utilising the latest blockchain CoreDAO.
               </p>
@@ -616,7 +614,7 @@ export default function Home() {
                       data-delay=".2"
                     >
                       <span>Tokens Offered</span>
-                      <h5>25 M</h5>
+                      <h5>10 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -627,7 +625,7 @@ export default function Home() {
                       data-delay=".3"
                     >
                       <span>Soft Cap</span>
-                      <h5>$6.6 M</h5>
+                      <h5>$1.25 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -638,7 +636,7 @@ export default function Home() {
                       data-delay=".4"
                     >
                       <span>Hard Cap</span>
-                      <h5>$25 M</h5>
+                      <h5>$2.5 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -689,10 +687,10 @@ export default function Home() {
                       <div
                         className="token-bar-item tbic1"
                         data-percent={30}
-                        style={{ width: "50%" }}
+                        style={{ width: "40%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>50%</span>
+                          <span>60%</span>
                           <span>Yield farming &amp; Staking</span>
                         </div>
                       </div>
@@ -702,60 +700,62 @@ export default function Home() {
                         style={{ width: "20%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>25%</span>
+                          <span>10%</span>
                           <span>Initial DEX Offering (IDO)</span>
                         </div>
                       </div>
                       <div
                         className="token-bar-item tbic3"
-                        data-percent={15}
-                        style={{ width: "15%" }}
+                        data-percent={12}
+                        style={{ width: "10%" }}
                       >
                         <div className="token-bar-txt">
                           <span>10%</span>
-                          <span>Public Sale</span>
+                          <span>Ecosystem</span>
                         </div>
                       </div>
-                      <div
+<div
                         className="token-bar-item tbic4"
-                        data-percent={13}
-                        style={{ width: "8%" }}
+                        data-percent={12}
+                        style={{ width: "10%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>8%</span>
-                          <span>DAO Treasury</span>
+                          <span>10%</span>
+                          <span>Team</span>
                         </div>
                       </div>
                       <div
                         className="token-bar-item tbic5"
                         data-percent={10}
-                        style={{ width: "5%" }}
+                        style={{ width: "8%" }}
                       >
                         <div className="token-bar-txt">
                           <span>5%</span>
-                          <span>Team</span>
+                          <span>Public Sale</span>
                         </div>
                       </div>
+                      
                       <div
                         className="token-bar-item tbic6"
-                        data-percent={7}
-                        style={{ width: "2%" }}
+                        data-percent={9}
+                        style={{ width: "8%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>1.5%</span>
-                          <span>Community</span>
+                          <span>3%</span>
+                          <span>DAO</span>
                         </div>
                       </div>
                       <div
                         className="token-bar-item tbic7"
-                        data-percent={5}
-                        style={{ width: "0.5%" }}
+                        data-percent={7}
+                        style={{ width: "4%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>0.5%</span>
-                          <span>Airdrop</span>
+                          <span>2%</span>
+                          <span>Community</span>
                         </div>
                       </div>
+                      
                     </div>
                   </div>
                 </div>
@@ -1354,7 +1354,7 @@ export default function Home() {
           <section className="section">
             <div className="container">
               <h1>
-                <a href="#" style={{ color: "#ff9635" }}>
+                <a href="" style={{ color: "#ff9635" }}>
                   BUY FAISAA
                 </a>
               </h1>
@@ -1370,4 +1370,3 @@ export default function Home() {
   </>
 )
 }
-
