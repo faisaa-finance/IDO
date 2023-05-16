@@ -146,7 +146,7 @@ export default function Home() {
                         href="#"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
-                        <span>Join IDO</span>
+                        <span>Join Pre-sale</span>
                       </a>
                     </li>
                     <li>
@@ -207,7 +207,7 @@ export default function Home() {
                                 href="#"
                                 className="btn btn-md btn-round btn-with-icon btn-light"
                               >
-                                <span>Join IDO</span>
+                                <span>Join Pre-sale</span>
                                 <em className="icon fas fa-angle-double-right" />
                               </a>
                             </li>
@@ -293,7 +293,7 @@ export default function Home() {
         
                 <div className="col-xl-6 col-md-7">
                   <div className="token-status token-status-s1 bg-theme tc-light text-left split split-right split-md-right">
-                    <h5 className="title-sm">Initital DEX Offering</h5>
+                    <h5 className="title-sm">Public Pre-sale</h5>
                     <div className="progress-bar progress-bar-s1">
                       <div
                         className="progress-percent progress-percent-s1 bg-theme-grad-alt"
