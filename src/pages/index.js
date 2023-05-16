@@ -277,12 +277,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      IDO will be live on 1st May 2023!
+                      Public Pre-sale will be live on 18th May 2023!
                     </h5>
-                    <h6>IDO ends in 6 Hours</h6>
+                    <h6>Presale ends in 6 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/05/01"
+                      data-date="2023/05/18"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
@@ -301,7 +301,7 @@ export default function Home() {
                       />
                     </div>
                     <div className="progress-points">
-                      <span>1M Sold</span> <span>10M Sold</span>
+                      <span>1M Sold</span> <span>1M Sold</span>
                     </div>
                   </div>
                 </div>
