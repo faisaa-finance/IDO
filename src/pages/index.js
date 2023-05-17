@@ -17,9 +17,16 @@ export default function Home() {
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="" />
+    <meta name="description" content="FaisaaX - the DEX that assures security, privacy, and freedom in trading" />
     <meta name="robots" content="index, follow" />
-    <meta name="keywords" content="comma-separated list of keywords" />
+    <meta name="keywords" content="dex, amm, crypto trading, exchange, crypto exchange, decentralized exchange, faisaa" />
+    <meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nytimesbits" />
+<meta name="twitter:creator" content="@nickbilton" />
+<meta property="og:url" content="https://app.faisaa.finance" />
+<meta property="og:title" content="FaisaaX Protocol on CORE" />
+<meta property="og:description" content="FaisaaX - the DEX that assures security, privacy, and freedom in trading" />
+<meta property="og:image" content="images/FaisaaX.gif" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png" />
@@ -204,7 +211,7 @@ export default function Home() {
                           >
                             <li>
                               <a
-                                href="#"
+                                href="https://app.faisaa.finance"
                                 className="btn btn-md btn-round btn-with-icon btn-light"
                               >
                                 <span>Join Pre-sale</span>
@@ -250,7 +257,7 @@ export default function Home() {
                       </a>
                     </li>
                     <li>
-                      <a href="https://github.com/faisaa-finance">
+                      <a href="https://github.com/faisaa-finance/protocol">
                         <em className="fab fa-github" />
                       </a>
                     </li>
@@ -279,10 +286,10 @@ export default function Home() {
                     <h5 className="title-sm">
                       Public Pre-sale will be live on 18th May 2023!
                     </h5>
-                    <h6>Presale ends in 6 Hours</h6>
+                    <h6>Public Pre-sale ends in 24 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/05/18"
+                      data-date="2023/05/24"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
