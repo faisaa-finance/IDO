@@ -20,9 +20,9 @@ export default function Home() {
     <meta name="description" content="FaisaaX - the DEX that assures security, privacy, and freedom in trading" />
     <meta name="robots" content="index, follow" />
     <meta name="keywords" content="dex, amm, crypto trading, exchange, crypto exchange, decentralized exchange, faisaa" />
-    <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@nytimesbits" />
-<meta name="twitter:creator" content="@nickbilton" />
+    <meta name="twitter:card" content="FaisaaX - the DEX that assures security, privacy, and freedom in trading" />
+<meta name="twitter:site" content="@faisaanetwork" />
+<meta name="twitter:creator" content="@faisaanetwork" />
 <meta property="og:url" content="https://app.faisaa.finance" />
 <meta property="og:title" content="FaisaaX Protocol on CORE" />
 <meta property="og:description" content="FaisaaX - the DEX that assures security, privacy, and freedom in trading" />
