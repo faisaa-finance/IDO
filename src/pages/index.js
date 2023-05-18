@@ -711,16 +711,7 @@ export default function Home() {
                           <span>Initial DEX Offering (IDO)</span>
                         </div>
                       </div>
-                      <div
-                        className="token-bar-item tbic3"
-                        data-percent={12}
-                        style={{ width: "10%" }}
-                      >
-                        <div className="token-bar-txt">
-                          <span>10%</span>
-                          <span>Ecosystem</span>
-                        </div>
-                      </div>
+                      
 <div
                         className="token-bar-item tbic4"
                         data-percent={12}
@@ -729,6 +720,27 @@ export default function Home() {
                         <div className="token-bar-txt">
                           <span>10%</span>
                           <span>Team</span>
+                        </div>
+                      </div>
+<div
+                        className="token-bar-item tbic7"
+                        data-percent={11}
+                        style={{ width: "9%" }}
+                      >
+                        <div className="token-bar-txt">
+                          <span>6%</span>
+                          <span>Community</span>
+                        </div>
+                      </div>
+<div
+                        className="token-bar-item tbic3"
+                        data-percent={10}
+                        style={{ width: "8%" }}
+                      >
+                        
+                        <div className="token-bar-txt">
+                          <span>5%</span>
+                          <span>Ecosystem</span>
                         </div>
                       </div>
                       <div
@@ -752,16 +764,17 @@ export default function Home() {
                           <span>DAO</span>
                         </div>
                       </div>
-                      <div
-                        className="token-bar-item tbic7"
+<div
+                        className="token-bar-item tbic6"
                         data-percent={7}
-                        style={{ width: "4%" }}
+                        style={{ width: "6%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>2%</span>
-                          <span>Community</span>
+                          <span>1%</span>
+                          <span>Presale</span>
                         </div>
                       </div>
+                      
                       
                     </div>
                   </div>
