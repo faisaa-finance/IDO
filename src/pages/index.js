@@ -771,7 +771,7 @@ export default function Home() {
                       >
                         <div className="token-bar-txt">
                           <span>1%</span>
-                          <span>Community</span>
+                          <span>Public Pre-sale</span>
                         </div>
                       </div>
                       
