@@ -842,8 +842,8 @@ export default function Home() {
                                 </span>
                               </div>
                               <ul className="roadmap-step-list roadmap-step-list-s1">
+                                <li>TEAM KYC WITH COREDAO</li>
                                 <li>FaisaaX Mainnet Launch</li>
-                                <li>$FAISAA Community Airdrop</li>
                                 <li>$FAISAA IDO &amp; Public Sale</li>
                                 <li>
                                   Security Audit by{" "}
