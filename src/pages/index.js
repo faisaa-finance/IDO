@@ -284,12 +284,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      Public Pre-sale will be live on 18th May 2023!
+                      Public Pre-sale will be live on 25th May 2023!
                     </h5>
                     <h6>Public Pre-sale ends in 24 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/05/24"
+                      data-date="2023/05/25"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
