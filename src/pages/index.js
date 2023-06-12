@@ -214,7 +214,7 @@ export default function Home() {
                                 href="https://app.faisaa.finance"
                                 className="btn btn-md btn-round btn-with-icon btn-light"
                               >
-                                <span>Join Pre-sale</span>
+                                <span>Join Liquidity Migration/span>
                                 <em className="icon fas fa-angle-double-right" />
                               </a>
                             </li>
@@ -608,7 +608,7 @@ export default function Home() {
                 data-animate="fadeInUp"
                 data-delay=".1"
               >
-                IDO Details
+                LP Migration Details
               </h4>
             </div>
             <div className="tokdis-list">
