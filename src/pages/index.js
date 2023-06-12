@@ -708,7 +708,7 @@ export default function Home() {
                       >
                         <div className="token-bar-txt">
                           <span>10%</span>
-                          <span>Initial DEX Offering (IDO)</span>
+                          <span>Liquidity Migration</span>
                         </div>
                       </div>
                       
@@ -728,7 +728,7 @@ export default function Home() {
                         style={{ width: "9%" }}
                       >
                         <div className="token-bar-txt">
-                          <span>6%</span>
+                          <span>7%</span>
                           <span>Community</span>
                         </div>
                       </div>
@@ -750,7 +750,7 @@ export default function Home() {
                       >
                         <div className="token-bar-txt">
                           <span>5%</span>
-                          <span>Public Sale</span>
+                          <span>Swap Liquidity</span>
                         </div>
                       </div>
                       
@@ -764,15 +764,7 @@ export default function Home() {
                           <span>DAO</span>
                         </div>
                       </div>
-<div
-                        className="token-bar-item tbic7"
-                        data-percent={7}
-                        style={{ width: "6%" }}
-                      >
-                        <div className="token-bar-txt">
-                          <span>1%</span>
-                          <span>Public Pre-sale</span>
-                        </div>
+
                       </div>
                       
                       
