@@ -773,7 +773,6 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            {/* .section-tokensale */}
           </div>
         </section>
         <section className="section bg-theme tc-light ov-h" id="roadmap">
