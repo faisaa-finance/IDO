@@ -835,7 +835,7 @@ export default function Home() {
                               <ul className="roadmap-step-list roadmap-step-list-s1">
                                 <li>TEAM KYC WITH COREDAO</li>
                                 <li>FaisaaX Mainnet Launch</li>
-                                <li>$FAISAA IDO &amp; Public Sale</li>
+                                <li>$FAISAA LP Mining Program</li>
                                 <li>
                                   Security Audit by{" "}
                                   <a href="https://www.certik.com/">
@@ -964,7 +964,7 @@ export default function Home() {
         data-delay=".2"
         style={{ visibility: "visible", animationDelay: "0.2s" }}
       >
-        Check out our FAQs for further information regarding the IDO event.
+        Check out our FAQs for further information regarding the $FAISAA LP Mining Program on June 2023.
       </p>
     </div>
     {/* .section-head @e */}
@@ -989,7 +989,7 @@ export default function Home() {
             </li>
             <li>
               <a data-toggle="tab" href="#ico-questions-07" className="">
-                Pre-IDO &amp; IDO
+                LP Migration on LP Mining Program
               </a>
             </li>
             <li>
