@@ -214,7 +214,7 @@ export default function Home() {
                                 href="https://app.faisaa.finance"
                                 className="btn btn-md btn-round btn-with-icon btn-light"
                               >
-                                <span>Join Liquidity Migration/span>
+                                <span>Join Liquidity Migration</span>
                                 <em className="icon fas fa-angle-double-right" />
                               </a>
                             </li>
