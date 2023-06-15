@@ -12,7 +12,7 @@ export default function Home() {
   
   <Head>
     <meta charSet="utf-8" />
-    <meta name="author" content="Faisaa Network" />
+    <meta name="author" content="FaisaaX" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
