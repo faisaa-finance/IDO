@@ -153,7 +153,7 @@ export default function Home() {
                         href="#"
                         className="btn btn-md btn-round btn-outline btn-auto btn-primary"
                       >
-                        <span>Join Pre-sale</span>
+                        <span>Join Initial LP Mining Program</span>
                       </a>
                     </li>
                     <li>
@@ -200,7 +200,7 @@ export default function Home() {
                             data-delay="1.35"
                           >
                             The token that assures endless possibilities with
-                            Atomic Swaps for Trustless P2P Trading
+                            Yield Farming & Trustless P2P Trading.
                           </p>
                         </div>
                         <div className="cpn-btns">
@@ -284,12 +284,12 @@ export default function Home() {
                 <div className="col-xl-4 col-md-5">
                   <div className="token-countdown-wrapper split split-left split-md-left">
                     <h5 className="title-sm">
-                      Public Pre-sale will be live on 25th May 2023!
+                      Intial Liquidity Mining Program on 16th June, 2023!
                     </h5>
-                    <h6>Public Pre-sale ends in 24 Hours</h6>
+                    <h6>Initial Liqiuidity Mining Program ends in 24 Hours</h6>
                     <div
                       className="countdown-small countdown-s3 countdown"
-                      data-date="2023/05/25"
+                      data-date="2023/06/16"
                       data-day-text="D"
                       data-hour-text="H"
                       data-min-text="M"
@@ -300,7 +300,7 @@ export default function Home() {
         
                 <div className="col-xl-6 col-md-7">
                   <div className="token-status token-status-s1 bg-theme tc-light text-left split split-right split-md-right">
-                    <h5 className="title-sm">Public Pre-sale</h5>
+                    <h5 className="title-sm">Liquidity Mining</h5>
                     <div className="progress-bar progress-bar-s1">
                       <div
                         className="progress-percent progress-percent-s1 bg-theme-grad-alt"
@@ -308,7 +308,7 @@ export default function Home() {
                       />
                     </div>
                     <div className="progress-points">
-                      <span>1M Sold</span> <span>1M Sold</span>
+                      <span>1M Mined</span> <span>15M Mined</span>
                     </div>
                   </div>
                 </div>
@@ -380,7 +380,7 @@ export default function Home() {
                     data-animate="fadeInUp"
                     data-delay=".3"
                   >
-                    <img src="images/FaisaaX.gif" alt="FaisaaX - Automated Market Maker DEX on CoreDAO Blockchain" />
+                    <img src="images/FaisaaX.gif" alt="FaisaaX - Automated Market Maker/DEX on CoreDAO Blockchain" />
                   </div>
                 </div>
                 {/* .col */}
@@ -416,7 +416,7 @@ export default function Home() {
                 data-delay=".3"
                 style={{ visibility: "visible", animationDelay: "0.3s" }}
               >
-                FaisaaX a AMM Powered DEX with Atomicswap Protocol is a project built by the community for the community. The project
+                FaisaaX is a next gen AMM inspired by the Uniswap project built by the CoreDAO community for the community. The project
                 aims to facilitate decentralised finance to its users by
                 utilising the latest blockchain CoreDAO.
               </p>
@@ -498,7 +498,7 @@ export default function Home() {
                       </h4>
                       <p>
                         A platform for conducting IDOs to raise finance for new
-                        for web3 projects. FaisaaPAD provides cryptocurrency
+                        web3 projects. FaisaaPAD provides cryptocurrency
                         projects with a means to distribute tokens and raise
                         liquidity via Initial DEX Offering (IDO) and Private
                         Sales.
