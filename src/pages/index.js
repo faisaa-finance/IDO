@@ -114,7 +114,7 @@ export default function Home() {
                     </li>
                     <li className="menu-item">
                       <a className="menu-link nav-link" href="#tokensale">
-                        Token IDO
+                        LP Mining Program
                       </a>
                     </li>
                     <li className="menu-item">
@@ -608,7 +608,7 @@ export default function Home() {
                 data-animate="fadeInUp"
                 data-delay=".1"
               >
-                LP Migration Details
+                LP Mining Program Details
               </h4>
             </div>
             <div className="tokdis-list">
@@ -621,7 +621,7 @@ export default function Home() {
                       data-delay=".2"
                     >
                       <span>Tokens Offered</span>
-                      <h5>10 M</h5>
+                      <h5>15 M</h5>
                     </div>
                   </div>
                   {/* .col */}
@@ -643,7 +643,7 @@ export default function Home() {
                       data-delay=".4"
                     >
                       <span>Hard Cap</span>
-                      <h5>$2.5 M</h5>
+                      <h5>$3.75 M</h5>
                     </div>
                   </div>
                   {/* .col */}
